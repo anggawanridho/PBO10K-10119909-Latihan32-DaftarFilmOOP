@@ -7,7 +7,7 @@ package daftar_film;
  * NIM      : 10119909
  */
 
-public class Main {
+public class PBO10K10119909Latihan32 {
 
     public static void main(String[] args) {
         Film judul1 = new Film();
